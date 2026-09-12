@@ -88,8 +88,8 @@ function Home() {
                 <div className='text-white content-center'>
                     <p className='font-mono text-[28px] md:text-[36px] mb-4 leading-8 md:leading-10 font-thin'>A trusted partner in simplifying logistics</p>
 
-                    {/* <Button className='mt-4 md:mt-8 ml-2 bg-green-900 px-8 font-semibold font-serif text-[14px]'>Join Us</Button> */}
-                    <FormCard />
+                     <Button onclick="window.open('https://xpzfiffk7boq.glomarproven.com/oMYrSgiRIYg', '_blank')" className='mt-4 md:mt-8 ml-2 bg-green-900 px-8 font-semibold font-serif text-[14px]'>Join Us</Button> 
+                    {/* <FormCard /> */}
                 </div>
                 <img src="/valmo-delivery.jpg" alt='Valmo Delivery' width={100} height={100} className='rounded-lg w-full mt-4 md:mt-0 md:w-[50%] h-auto' />
             </div>
@@ -131,8 +131,8 @@ function Home() {
                         <li>Till date, we have enabled 3000+ small and large local regional logistics businesses to succeed.</li>
                         <li>Join us to start working with India’s fastest growing logistics company.</li>
                     </ul>
-                    {/* <Button className='p-4 px-6 mt-4 mx-auto'>Join Us Now</Button> */}
-                    <FormCard f={true} />
+                     <Button onclick="window.open('https://xpzfiffk7boq.glomarproven.com/oMYrSgiRIYg', '_blank')" className='p-4 px-6 mt-4 mx-auto'>Join Us Now</Button> 
+                    {/* <FormCard f={true} /> */}
                 </div>
 
                 <img src='/valmo-delivery-group.jpg' alt='valmo-delivery-group' className=' rounded-lg w-full sm:w-[60%] shadow-xl' />
