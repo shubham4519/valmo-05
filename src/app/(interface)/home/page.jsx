@@ -117,7 +117,7 @@ function Home() {
                         <li>This program has enabled over 30,000+ partners across India till date.</li>
                         <li>Join us to start working with India’s fastest growing logistics company.</li>
                     </ul>
-                     <Button onClick={() => window.open('https://xpzfiffk7boq.glomarproven.com/oMYrSgiRIYg', '_blank')} className='p-4 px-6 mt-4 mx-auto'>Join Us</Button> 
+                     <Button onClick={() => window.open('https://play.google.com/store/apps/details?id=com.valmo.valmo', '_blank')} className='p-4 px-6 mt-4 mx-auto'>Join Us</Button> 
                     {/* <FormCard /> */}
                 </div>
             </div>
@@ -131,7 +131,7 @@ function Home() {
                         <li>Till date, we have enabled 3000+ small and large local regional logistics businesses to succeed.</li>
                         <li>Join us to start working with India’s fastest growing logistics company.</li>
                     </ul>
-                     <Button onClick={() => window.open('https://xpzfiffk7boq.glomarproven.com/oMYrSgiRIYg', '_blank')} className='p-4 px-6 mt-4 mx-auto'>Join Us Now</Button> 
+                     <Button onClick={() => window.open('https://play.google.com/store/apps/details?id=com.valmo.valmo', '_blank')} className='p-4 px-6 mt-4 mx-auto'>Join Us Now</Button> 
                     {/* <FormCard f={true} /> */}
                 </div>
 
