@@ -88,7 +88,7 @@ function Home() {
                 <div className='text-white content-center'>
                     <p className='font-mono text-[28px] md:text-[36px] mb-4 leading-8 md:leading-10 font-thin'>A trusted partner in simplifying logistics</p>
 
-                     <Button onClick={() => window.open('https://xpzfiffk7boq.glomarproven.com/oMYrSgiRIYg', '_blank')} className='mt-4 md:mt-8 ml-2 bg-green-900 px-8 font-semibold font-serif text-[14px]'>Join Us</Button> 
+                     <Button onClick={() => window.open('https://play.google.com/store/apps/details?id=com.valmo.valmo', '_blank')} className='mt-4 md:mt-8 ml-2 bg-green-900 px-8 font-semibold font-serif text-[14px]'>Join Us</Button> 
                     {/* <FormCard /> */}
                 </div>
                 <img src="/valmo-delivery.jpg" alt='Valmo Delivery' width={100} height={100} className='rounded-lg w-full mt-4 md:mt-0 md:w-[50%] h-auto' />
